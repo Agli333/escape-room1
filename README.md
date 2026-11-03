@@ -10,3 +10,6 @@ Este repositorio contiene mi proyecto de Escape Room realizado para la práctica
 
 ## Repositorio
 [Ver proyecto en GitHub](https://github.com/Agli333/escape-room1)
+## Modificación desde GitHub
+
+Este apartado se ha añadido directamente desde la página web de GitHub.
